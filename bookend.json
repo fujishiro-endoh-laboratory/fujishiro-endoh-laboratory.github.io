@@ -1,0 +1,24 @@
+{
+  "bookendVersion": "v1.0",
+  "components": [
+    {
+      "type": "heading",
+      "text": "東京理科大学 基礎工学部 電子応用工学科 藤代・遠藤研究室"
+    },
+    {
+      "type": "heading",
+      "text": "〒125-8585 \n東京都葛飾区新宿6-3-1研究棟10階藤代研究室\nTEL：03-5876-1718（内線1868，1869"
+    },
+    {
+      "type": "small",
+      "title": "Email",
+      "url": "mailto:fujisiro@te.noda.tus.ac.jp"
+    },
+    {
+      "type": "small",
+      "title": "東京理科大学",
+      "url": "https://www.tus.ac.jp/",
+      "image": "https://www.tus.ac.jp/common/img/share/logo2.png"
+    }
+  ]
+}
